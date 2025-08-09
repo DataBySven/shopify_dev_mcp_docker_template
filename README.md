@@ -1,1 +1,2 @@
-# shopify_dev_mcp_docker_template
+# shopify-dev-mcp-docker-template
+Dockerized Shopify.dev MCP server

@@ -1,0 +1,1 @@
+# shopify_dev_mcp_docker_template
